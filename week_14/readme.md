@@ -12,3 +12,14 @@ Your task is to analyze an existing recommender system that you find interesting
 
 - The recommender system for Spotify, basses itself around the artists you listen too. When you download songs it plays those artists. When a song is finish or rather an album it plays the radio of like artists of that artist. To improve these capabilities, they could actually ask which artists you would like to listen to. They could implement a better gui for their recommendations. Overall their recommendation channel is rather good and has a great algorithm too.
 https://qz.com/571007/the-magic-that-makes-spotifys-discover-weekly-playlists-so-damn-good/
+
+
+Scenario Design:
+Who are their target users? 
+Anyone that listens to music
+
+What are their goals?
+	To create an algorithm to take peoples playlists and create top hits playlists
+
+How can you help?
+	Solve their problem or create a certain way to produce these ask.
