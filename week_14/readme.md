@@ -10,8 +10,7 @@ Create your report using a Jupyter notebook, and create a discussion thread with
 
 
 
-=============================================================================================
-
+-
 
 
 The recommender system for Spotify, basses itself around the artists you listen too. When you download songs it plays those artists. When a song is finish or rather an album it plays the radio of like artists of that artist. To improve these capabilities, they could actually ask which artists you would like to listen to. They could implement a better gui for their recommendations. Overall their recommendation channel is rather good and has a great algorithm too.
